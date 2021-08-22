@@ -1,0 +1,10 @@
+
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-mfw1",{"micros":162770,"calls":["discord-sessions-green-prd-2-2",{"micros":161500,"calls":["start_session",{"micros":140893,"calls":["api-prd-main-g2xk",{"micros":130251,"calls":["get_user",{"micros":13226},"add_authorized_ip",{"micros":13921},"get_guilds",{"micros":23929},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":7325,"calls":[]}]}]}] (Session ID: 7f9fb27fc3e8906e6f4ae089317f3aae).
+INFO:root:Bot is online
+INFO:root:Kazé's server [Kazé#0001] = **** Latency: 31ms
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-n8lp",{"micros":79777,"calls":["discord-sessions-green-prd-2-135",{"micros":73401,"calls":["start_session",{"micros":39327,"calls":["api-prd-main-wqnj",{"micros":33542,"calls":["get_user",{"micros":5895},"add_authorized_ip",{"micros":1440},"get_guilds",{"micros":3777},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}] (Session ID: 36d4502b865c18f70be6ad5c7c16d370).
+INFO:root:Bot is online
